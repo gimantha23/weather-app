@@ -4,7 +4,7 @@ import "./css/App.css";
 import SearchBar from "./components/SearchBar";
 import WeatherCard from "./components/WeatherCard";
 import Favorites from "./components/Favorites";
-import { API_KEY } from "./config.js";
+import { API_KEY } from "./config_apikey.js";
 
 class App2 extends Component {
   constructor(props) {
